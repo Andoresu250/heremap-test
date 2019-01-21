@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HereMapTest</string>
+    <string name="error_no_permission">no permission</string>
+</resources>

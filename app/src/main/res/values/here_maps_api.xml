@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="here_app_id" templateMergeStrategy="preserve" translatable="false">
+        rNscsGlkEmh0iJURlryd
+    </string>
+
+    <string name="here_app_code" templateMergeStrategy="preserve" translatable="false">
+        bdWDuKneTcWbP71RufSXgw
+    </string>
+
+    <string name="here_license_key" templateMergeStrategy="preserve" translatable="false">
+        BYrPjbRpoIkxrucfsa5Lc8lq2HTTG25Nc0PxwUWnpQ0jCnDJnmSQJLtRRueW7uUpvOfWLMCHOudV5g667E1pwCJfDuuD2Ix091qELSKaBm5wCfzEBhEtQ3vDuDR4RmCYhrfCTyCz/0iGp1URwF9WOS0y1UVRr8S3j+LY9780Y/AdUjhBU//Yd5vGMibEAYbbYDA1f1d7zplPyybCU7DriMZ40w6wssFBnoooFgfR7czBt8/kFji9kfifH+7df+QWCWhgk/mK5NbjrIoUna31ib7S6aiIvh+prgpmRWaQa6+8Urrm+jK1g/aRFCjBysCMbGHYKJ8TNFbgTNnTQWd8kSHi/UiD/cekwfGoQv/wSQaJvxMmK60gDKzsGIOmR7jsIWcx0IX3yq+hzaZq/LnhnQ4efjcVuQ0TsJMZb18h7RZ2ptnyFDiob3sPzephp8LgWkEIbqEj8LT37XI+b+DJgNlXPw3k24ye84wVs2sJTXjjlvJPb2ayS8UKh8Wy2D/KKUCX64mdnfSO3aP7yjPYguh4fhAD9/pIm7cqjilQ4Fy4kJnL/U2q4Swq1oynH/DDtTSg61VdeYgPcVhwx4LMr20jIRlwaLqEo0LY/qi0JA6IlZ5vLwJf7BbQhMaYSMXH0Ajg4y6xMS+GsGaa6YqN/LX6nkyUV63KDWFnl6VR9NY=
+    </string>
+
+</resources>
